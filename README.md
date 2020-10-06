@@ -1,2 +1,0 @@
-# vlajky-sveta
-Vlajky Světa
